@@ -1,0 +1,13 @@
+/* Esta es mi hoja de estilos claro que si*/
+main {
+  padding: 8rem 1rem;
+  border: 10px #f40101;
+  margin: 5rem;
+  /* border radius 2rem; */
+}
+img {
+    object-fit: cover;
+    width: 100%;
+}
+
+
